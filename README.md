@@ -1,1 +1,1 @@
-# monster2d
+# monster2d game
